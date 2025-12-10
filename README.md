@@ -34,7 +34,7 @@ This project demonstrates the fundamental concepts of AI Navigation in Unity. It
 ## 🎬 Demo Video
 
 Watch the demo here:  
-[▶️ Demo Video](/Demo.mov))
+[▶️ Demo Video](/Demo.mov)
 
 
 ## 📄 License
