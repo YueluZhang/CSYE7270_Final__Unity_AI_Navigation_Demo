@@ -31,6 +31,11 @@ This project demonstrates the fundamental concepts of AI Navigation in Unity. It
 ## 📸 Screenshots
 <img width="648" height="602" alt="fc967e00506cb223bbdbc4e8b3a92ec7" src="https://github.com/user-attachments/assets/115d1b04-c08d-4d1c-ae3e-bfdf268c74fc" />
 
+## 🎬 Demo Video
+
+Watch the demo here:  
+[▶️ Demo Video](/Demo.mov))
+
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
